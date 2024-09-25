@@ -1,0 +1,10 @@
+INICIO
+n1 <------ 0 / n2 <----- 0
+LEER n1
+LEER n2
+suma <------- n1+n2
+resta <------- n1-n2
+multiplicacion <------- n1*n2
+division <------- n1/n2
+MOTRAR suma, resta ,multiplicación, división
+FIN
