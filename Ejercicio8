@@ -1,0 +1,7 @@
+INICIO
+sueldo_b <----- 0 / dinero_v <------ 0
+LEER sueldo_b
+LEER dinero_v
+comisión <---- dinero_v*10/100
+sueldo_f <----- suelbo_b+comisión
+FIN
