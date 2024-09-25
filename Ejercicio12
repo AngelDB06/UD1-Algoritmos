@@ -1,0 +1,9 @@
+INICIO
+x1 <----0 / y1 <-----0 / x2 <-----0 / y2 <------0
+LEER x1
+LEER y1
+LEER x2
+LEER y2
+distancia <----- RaízCuadrada((x1-x2)^2 + (y1-y2)^2)
+MOSTRAR disctancia
+FIN
