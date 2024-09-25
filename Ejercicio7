@@ -1,0 +1,7 @@
+INICIO
+minutos <------- 0
+LEER minutos
+horas <------- minutos/60
+minutosREST <------- minutos MOD 60
+MOSTRAR horas, minutosREST
+FIN
