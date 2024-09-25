@@ -1,0 +1,11 @@
+INICIO
+total_p <----- 0 / examen <------ 0 / trabajo <----- 0
+LEER total_p
+LEER examen
+LEER trabajo
+55% <----- total_p*55/100
+30% <----- examen*30/100
+15% <----- trabajo*15/100
+c_final <------ 55%+30%+15%
+MOSTRAR c_final
+FIN
