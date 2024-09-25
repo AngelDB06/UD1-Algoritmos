@@ -1,0 +1,7 @@
+INICIO
+precio <----- 0
+LEER precio
+descuento <------ precio*15/100
+precio_f <----- precio-descuento
+MOSTRAR precio_f
+FIN
