@@ -1,0 +1,6 @@
+INICIO
+grados_f <------ 0
+LEER grados_f
+grados_c <------ (grados_f-32)*5/9
+MOSTRAR grados_c
+FIN
