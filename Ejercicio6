@@ -1,0 +1,10 @@
+INICIO
+n <------ ; suma <----- 0
+n_totales <----- 0
+LEER n
+suma <----- n+suma
+i <------ i+1
+SI i <3 ir a 4
+media <------ suma/i
+MOSTRAR media
+FIN
