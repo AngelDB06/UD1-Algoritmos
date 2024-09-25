@@ -1,0 +1,7 @@
+INICIO
+n <---- 0
+LEER n
+r_cuadrada <---- Math.sqrt(n)
+r_cubica <------ Math.cbrt(n)
+MOSTRAR r_cuadrada, r_cubica
+FIN
