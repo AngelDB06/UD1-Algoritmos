@@ -1,0 +1,7 @@
+INICIO
+cateto1 <------ 0 / cateto2 <-------- 0
+LEER cateto1
+LEER cateto2
+hipotenusa <------ cateto1² + cateto2²
+MOSTRAR hipotenusa
+FIN
