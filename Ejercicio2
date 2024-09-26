@@ -1,7 +1,8 @@
 INICIO
-base <------ 0 / altura <-------- 0
-LEER BASE
-LEER ALTURA
+Introduce la base
+LEER base
+Introduce la altura
+LEER altura
 perimetro <------ base*2+altura*2
 area <------ base*altura
 MOSRTRAR perimetro Y area
