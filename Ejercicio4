@@ -1,6 +1,7 @@
 INICIO
-n1 <------ 0 / n2 <----- 0
+Introduce el primer número
 LEER n1
+Introduce el segundo número
 LEER n2
 suma <------- n1+n2
 resta <------- n1-n2
