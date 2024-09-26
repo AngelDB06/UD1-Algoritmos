@@ -4,5 +4,5 @@ LEER BASE
 LEER ALTURA
 perimetro <------ base*2+altura*2
 area <------ base*altura
-MOSRTRAR perimetro Y altura
+MOSRTRAR perimetro Y area
 FIN
