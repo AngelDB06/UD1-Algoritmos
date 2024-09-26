@@ -1,11 +1,11 @@
-INICIO
-Introduce el primer número
-LEER n1
-Introduce el segundo número
-LEER n2
-suma <------- n1+n2
-resta <------- n1-n2
-multiplicacion <------- n1*n2
-division <------- n1/n2
-MOTRAR suma, resta ,multiplicación, división
-FIN
+Algoritmo ejercicio4
+	Escribir "Introduce el primer número"
+	Leer n1
+	Escribir "Introduce el segundo número"
+	Leer n2
+	s<-n1+n2
+	r<-n1-n2
+	m<-n1*n2
+	d<-n1/n2
+	Mostrar "El resultado de la suma es " s ",el resultado de la resta es " r ", el resultado de la multiplicación es " m " y el resultado de la división es " d
+FinAlgoritmo
