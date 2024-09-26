@@ -1,6 +1,7 @@
 INICIO
-cateto1 <------ 0 / cateto2 <-------- 0
+Introduce el cateto1
 LEER cateto1
+Introduce el cateto2
 LEER cateto2
 hipotenusa <------ cateto1² + cateto2²
 MOSTRAR hipotenusa
