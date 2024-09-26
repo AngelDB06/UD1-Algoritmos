@@ -1,4 +1,5 @@
 Algoritmo ejercicio4
+	// Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
 	Escribir "Introduce el primer número"
 	Leer n1
 	Escribir "Introduce el segundo número"
