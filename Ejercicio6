@@ -1,10 +1,20 @@
-INICIO
-n <------ ; suma <----- 0
-n_totales <----- 0
-LEER n
-suma <----- n+suma
-i <------ i+1
-SI i <3 ir a 4
-media <------ suma/i
-MOSTRAR media
-FIN
+Algoritmo ejercicio6
+	// Calcular la media de tres números pedidos por teclado
+	Escribir "Escribe un número"
+	Leer n
+	suma<-n+suma
+	i<-i+1
+	Si i=3 Entonces
+		media<-suma/i
+	SiNo
+		Repetir
+			Escribir "Escribe un número"
+			Leer n
+			suma<-n+suma
+			i<-i+1
+		Hasta Que i=3
+	Fin Si
+	media<-suma/i
+	Mostrar media
+FinAlgoritmo
+
