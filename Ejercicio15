@@ -1,0 +1,9 @@
+INICIO
+a <--- 0 / b <---- 0
+LEER a
+LEER b
+temp <---- a
+a <--- b
+b <--- temp
+MOSTRAR a, b
+FIN
