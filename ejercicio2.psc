@@ -1,0 +1,10 @@
+Algoritmo ejercicio2
+	// Calcular el perímetro y área de un rectángulo dada su base y su altura.
+	Escribir "Introduce la base"
+	Leer base
+	Escribir "Introduce la altura"
+	leer altura
+	perimetro<-(base+altura) * 2
+	area<-base*altura
+	mostrar "El perímetro es " perimetro ", y el area es " area
+FinAlgoritmo

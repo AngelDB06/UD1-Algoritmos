@@ -1,0 +1,9 @@
+Algoritmo ejercicio13
+	// Realizar un algoritmos que lea un número y que muestre su raíz cuadrada y su raíz cúbica. PSeInt no
+	//tiene ninguna función predefinida que permita calcular la raíz cúbica, ¿Cómo se puede calcular?
+	Escribir "Escribe el número"
+	Leer n
+	rcuadrada<-rc(n)
+	rcubica<-n ^ (1/3)
+	Escribir "La raíz cuarada es " rcuadrada " y la raíz cúbica es " rcubica
+FinAlgoritmo

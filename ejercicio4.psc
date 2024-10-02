@@ -1,0 +1,12 @@
+Algoritmo ejercicio4
+	// Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.
+	Escribir "Introduce el primer número"
+	Leer n1
+	Escribir "Introduce el segundo número"
+	Leer n2
+	s<-n1+n2
+	r<-n1-n2
+	m<-n1*n2
+	d<-n1/n2
+	Mostrar "El resultado de la suma es " s ",el resultado de la resta es " r ", el resultado de la multiplicación es " m " y el resultado de la división es " d
+FinAlgoritmo
