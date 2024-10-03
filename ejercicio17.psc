@@ -15,5 +15,8 @@ Algoritmo ejercicio17
 	HoraLlegada= trunc((TotalSL/3600))
 	MinutosLlegada<-trunc((TotalSL%3600) /60)
 	SegundosLlegada<-TotalSL%60
+	Si HoraLlegada>=24 Entonces
+		HoraLlegada<-0
+	FinSi
 	Escribir "La hora de llegada es: " HoraLlegada " horas " MinutosLlegada " minutos " SegundosLlegada " segundos "
 FinAlgoritmo
